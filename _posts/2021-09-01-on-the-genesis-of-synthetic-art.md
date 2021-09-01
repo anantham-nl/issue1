@@ -6,6 +6,7 @@ title: On the genesis of synthetic art
 *A work by Sreehari P Sreedhar*
 
 ![alt text](https://github.com/anantham-nl/issue1/blob/bb9a5a6b58dae0eb40b6b9a1967005dea62cd73a/assets/images/India_925.png "Art generated using a procedural algorithm.")
+> Art generated using a procedural algorithm.
 
 In the beginning, man created art. Our current perception of the construct that is art seems to be heavily influenced by its use as a medium of creativity. That statement right there opened up a floodgate in my mind. Would it then be fair to classify the primitive illustrations on the walls of the caves in Lascaux as art? The consensus among most schools of thought in anthropology is that those illustrations were the precursors of the written word. That leads to the question “what be the written alphabet but mere illustrations that we are told to have meanings analogous to our thoughts?”. However, this article was not written to lead the audience into an existential crisis.
 
